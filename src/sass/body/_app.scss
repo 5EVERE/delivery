@@ -1,0 +1,18 @@
+.app {
+  background: rgba(134, 152, 228, 0.15);
+  padding-bottom: 170px;
+  &__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__title {
+    margin-bottom: 30px;
+  }
+  &__subtitle {
+    margin-bottom: 30px;
+  }
+  &__app-store{
+    margin-right: 35px;
+  }
+}
